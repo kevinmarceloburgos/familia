@@ -1,0 +1,57 @@
+/* CSS Document */
+* {
+    font-family: poppins;
+    margin: 0;
+    padding: 0;
+    
+}
+header {
+    width: 100%;
+    background-color: coral;
+    color: #fff;
+    position: fixed;
+    z-index: 100;
+}
+footer {
+    position: relative;
+    top: 70px;
+    padding: 10px;
+}
+footer p {
+    padding: 10px;
+    color: 101010
+}
+.main {
+    position: relative;
+    top: 70px;
+}
+h2 {
+    padding: 18px;
+    transition: padding .3s ease;
+}
+body {
+    background: #ddd
+}
+article {
+    float: left;
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: #fff;
+    padding-top: 5px;
+}
+img {
+    width: 100%;
+}
+.info {
+    padding: 15px;
+    padding-top: 5px;
+}
+a {
+    color: #101010;
+}
+.icon-whatsapp {
+    position: relative;
+    top: 2px;
+    color: #43A544;
+    text-decoration: none;
+}
