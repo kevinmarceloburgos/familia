@@ -33,6 +33,7 @@ h2 {
 body {
     background: #ddd;
     max-width: 500px;
+    margin: auto;
 }
 article {
     float: left;
