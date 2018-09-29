@@ -11,6 +11,7 @@ header {
     color: #fff;
     position: fixed;
     z-index: 100;
+    max-width: 500px;
 }
 footer {
     position: relative;
@@ -30,7 +31,8 @@ h2 {
     transition: padding .3s ease;
 }
 body {
-    background: #ddd
+    background: #ddd;
+    max-width: 500px;
 }
 article {
     float: left;
